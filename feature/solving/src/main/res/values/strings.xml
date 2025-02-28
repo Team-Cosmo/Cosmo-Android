@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="assessmentsType_today">오늘 학습하기</string>
+    <string name="assessmentsType_subject">과목별 학습하기</string>
+
+    <string name="assessmentType_multipleChoice">객관식</string>
+    <string name="assessmentType_descriptive">서술형</string>
+
+    <string name="subject_operatingSystem">운영체제</string>
+    <string name="subject_network">네트워크</string>
+    <string name="subject_algorithm">알고리즘</string>
+    <string name="subject_database">데이터베이스</string>
+    <string name="subject_dataStructure">자료구조</string>
+
+    <string name="return_answer">답변 제출하기</string>
+
+</resources>
