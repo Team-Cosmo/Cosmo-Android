@@ -3,8 +3,9 @@
 
 ## 📷 Previews  
 <p align="left">
-<img src="https://github.com/user-attachments/assets/a50a894d-5ed8-4c30-bf4f-3181397a966e" alt="drawing" width="200px" />
-  <img src="https://github.com/user-attachments/assets/63321de0-b914-4297-a1c2-e68350f4bf1f" alt="drawing" width="200px" />
+  <img src="https://github.com/user-attachments/assets/35956d54-f78b-424b-b448-1d8b302c3f8b" alt="drawing" width="240px" />
+<img src="https://github.com/user-attachments/assets/1232214a-6ad9-4465-abdd-c382edbe2b6d" alt="drawing" width="240px" />
+  <img src="https://github.com/user-attachments/assets/63321de0-b914-4297-a1c2-e68350f4bf1f" alt="drawing" width="240px" />
 </p>
 
 ## ⚙️ Troubleshooting  
