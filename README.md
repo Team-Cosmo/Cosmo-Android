@@ -2,9 +2,9 @@
 ![cover](https://github.com/user-attachments/assets/40c84f67-d401-4e9a-9fa6-ac0ff94da732)  
 
 ## 📷 Previews  
-
 <p align="left">
-<img src="https://github.com/user-attachments/assets/9c70082d-382e-4bdd-93be-e94f00b6811c" alt="drawing" width="200px" />
+<img src="https://github.com/user-attachments/assets/a50a894d-5ed8-4c30-bf4f-3181397a966e" alt="drawing" width="200px" />
+  <img src="https://github.com/user-attachments/assets/63321de0-b914-4297-a1c2-e68350f4bf1f" alt="drawing" width="200px" />
 </p>
 
 ## ⚙️ Troubleshooting  
